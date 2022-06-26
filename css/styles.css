@@ -19,6 +19,7 @@ body {
 .head_left {
     float: left;
     font-size: 1.3rem;
+    margin-left: 1rem;
 }
 
 .head_right {
