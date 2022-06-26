@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F3E9DC;
+}
+
+
+.hovud_txt {
+    color: #648767;
+}
+.other_txt {
+    color: #2E282A;
+}
+
+
+.header {
+    width: 100%;
+}
+
+.head_left {
+    float: left;
+    font-size: 1.3rem;
+}
+
+.head_right {
+    float: right;
+    margin-top: 2.7rem;
+}
+.head_right a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.work_gallery {
+    margin: auto;
+    /* margin-top: 100px; */
+    width: 80%;
+    /* border: 3px solid green; */
+    padding: 10px;
+}
+
+div.photo {
+    margin: 15px;
+    float: left;
+    width: 345px;
+    /* height: 245px; */
+}
+div.photo img {
+    width: 100%;
+    height: auto;
+}
