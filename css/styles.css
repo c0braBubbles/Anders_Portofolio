@@ -52,3 +52,14 @@ div.photo img {
     width: 100%;
     height: auto;
 }
+
+
+.category_elm {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #2E282A;
+}
+.category_elm:hover {
+    font-weight: bold;
+    transition: 0.2s;
+}

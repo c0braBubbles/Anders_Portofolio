@@ -1,10 +1,14 @@
 // Class decleration
 class Media {
-    constructor(path, name, headerTxt, subTxt) {
+    constructor(path, name, category) {
         this.path = path; 
         this.name = name; 
-        this.headerTxt = headerTxt; 
-        this.subTxt = subTxt;
+
+        // kategorier 
+        // photos, video, artwork
+        this.category = category;
+        // sub-kategori?
+        // han har en gmail
     }   
 }
 
